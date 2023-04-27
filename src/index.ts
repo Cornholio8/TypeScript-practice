@@ -137,3 +137,5 @@ console.log("add – add new user to the list");
 console.log("remove – remove user from the list");
 console.log("quit – quit the app");
 console.log("\n");
+
+startApp();
